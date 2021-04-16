@@ -1,4 +1,4 @@
-- very very min版本的preact，主要实现生命周期，diff，setState等基本功能。
+- very very mini版本的preact，主要实现生命周期，diff，setState等基本功能。
 - preact版本: 10.5.13
 
 # 使用
